@@ -25,6 +25,7 @@
 	],
 	"author": "graybear",
 	"license": "MIT",
+	"packageManager": "pnpm@10.33.2",
 	"homepage": "https://github.com/graybearo/chrome-extension-vite-svelte#readme",
 	"bugs": "https://github.com/graybearo/chrome-extension-vite-svelte/issues",
 	"repository": {
