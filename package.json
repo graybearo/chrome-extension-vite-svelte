@@ -42,8 +42,8 @@
 		"zip": "node scripts/zip.mjs"
 	},
 	"dependencies": {
-		"mv3-keepalive": "^0.1.0",
-		"mv3-message-router": "^0.1.0",
+		"mv3-keepalive": "^1.0.0",
+		"mv3-message-router": "^1.0.0",
 		"svelte": "^4.2.19"
 	},
 	"devDependencies": {

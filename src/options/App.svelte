@@ -1,3 +1,5 @@
+<script lang="ts"></script>
+
 <main style="padding: 24px; font-family: system-ui, sans-serif;">
 	<h1>Options</h1>
 	<p>
